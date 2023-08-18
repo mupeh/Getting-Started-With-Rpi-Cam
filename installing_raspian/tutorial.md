@@ -23,6 +23,7 @@ Or [Rasberry Pi Imager ](https://www.raspberrypi.com/software/) or another image
 ## Step 3 Download [Raspian OS](https://www.raspberrypi.com/software/operating-systems/)
 
 Pick any os you want to install, I picked Raspberry Pi OS with desktop.
+
 <img src="images/rpios.png" width="404">
 
 ## Step 4 Flash SD Card with Raspian OS
