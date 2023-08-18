@@ -31,3 +31,11 @@ Pick any os you want to install, I picked Raspberry Pi OS with desktop.
 ![](images/balenaetching.gif)
 
 ## Step 5 Plug in everything
+
+- USB (Mouse & Keyboard)
+- HDMI (Screen)
+- Power
+- SD Card
+- Camera
+
+![](images/plugging.gif)
